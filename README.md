@@ -22,3 +22,12 @@ In the data exploration section we explore 4 high level business questions relat
 To answer these questions we walk through many different pandas & matplotlib methods. They include Concatenating multiple csvs together to create a 
 new DataFrame (pd.concat),Parsing cells as strings to make new columns (.str), Using the .apply() method,Using groupby to perform aggregate analysis,
 Plotting bar charts and lines graphs to visualize our results.
+
+![Screenshot (71)](https://github.com/shivamnegi305/Sales-Analysis-Pandas/assets/125632146/13d5a09e-e279-4bfa-ad5a-08c50289fa1f)
+
+![Screenshot (72)](https://github.com/shivamnegi305/Sales-Analysis-Pandas/assets/125632146/21621e34-a489-4621-9a6a-d283d3ec83b4)
+
+![Screenshot (73)](https://github.com/shivamnegi305/Sales-Analysis-Pandas/assets/125632146/dcc1e4ab-dd4a-4343-a3b8-f608e04f2e5b)
+
+
+
